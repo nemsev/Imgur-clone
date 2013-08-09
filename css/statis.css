@@ -1,0 +1,90 @@
+#header.signin {
+	width: 600px;
+}
+
+#content.private {
+	width: 600px;
+}
+
+#login-form label {
+	display: block;
+	width: 100px;
+	font-weight: bold;
+	font-size: 18px;
+    padding: 5px;
+}
+
+#login-form input[type="text"],[type="password"] {
+	color: white;
+	font-size: 14px;
+	border-radius: 4px 4px 4px 4px;
+	padding: 6px;
+	width: 250px;
+	margin-bottom: 5px;
+	
+}
+
+#login-form input[type="submit"] {
+	border: 2px solid #444442;
+	border-radius: 4px 4px 4px 4px;
+	width: 80px;
+	height: 30px;
+	color: white;
+	font-weight: bold;
+	font-size: 12px;
+	padding: 4px;
+}
+
+#content.two-column {
+	background-color: transparent;
+	padding: 0px;
+	width: 1000px;
+}
+
+.two-column .left.panel, .two-column .left .panel {
+	width: 675px;
+	margin-right: 10px;
+}
+
+.right .panel {
+	width: 200px;
+}
+
+.post {
+	background-color: #181817;
+	border: 3px solid #444442;
+	float: left;
+	margin: 3px;
+	line-height: 0px;
+	width: 100px;
+	height: 100px;
+}
+
+.post img {
+	width: 100px;
+	height: 100px;
+}
+
+.headerbox {
+	background-color: #181817;
+	border-radius: 4px 4px 4px 4px;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.textbox {
+	margin-top: 5px;
+	background-color: #181817;
+	border-radius: 4px 4px 4px 4px;
+	padding: 10px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+

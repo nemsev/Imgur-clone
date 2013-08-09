@@ -1,0 +1,196 @@
+#content.gallery {
+	background-color: transparent;
+	width: 1000px;
+	padding: 0px;
+	margin-bottom: 20px;
+}
+
+.gallery .left.panel, .gallery .left .panel {
+	width: 710px;
+}
+
+#content.two-column {
+	background-color: transparent;
+	width: 1000px;
+	padding: 0px;
+}
+
+.two-column .left .panel {
+	width: 610px;
+	margin-right: 10px;
+}
+
+.two-column > .right {
+	width: 330px;
+}
+
+.two-column .right .panel {
+	margin-bottom: 10px;
+	padding: 15px;
+	width: 300px;
+}
+
+.panel .thumbnails {
+	margin-top: 5px;
+	line-height: 0px;
+	text-align: center;
+}
+
+.thumbnails .thumb {
+	background-color: #181817;
+	border: 2px solid #444442;
+	margin: 2px;
+	float: left;
+	width: 90px;
+	height: 90px;
+}
+
+.thumbnails .thumb img {
+	width: 90px;
+	height: 90px;
+}
+
+#under-image {
+	margin-top: 5px;
+	line-height: 10px;
+	font-size: 0.9em;
+}
+
+#under-image .views {
+	float: left;
+	width: 510px;
+	background-color: #181817;
+	border-radius: 4px 4px 4px 4px;
+	padding: 15px 10px;
+}
+
+#post-caption {
+	margin: 5px 0px;
+	overflow: hidden;
+	position: relative;
+}
+
+#post-caption textarea {
+	float: left;
+	width: 518px;
+	height: 22px;
+	color: #888888;
+	font-size: 1.2em;
+	background-color: #121211;
+	border: 1px solid #444442;
+	padding-top: 7px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 4px;
+	font-family: inherit;
+	outline: none;
+}
+
+#post-caption input {
+	border: 2px solid #444442;
+	border-radius: 4px 4px 4px 4px;
+	width: 73px;
+	height: 35px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 12px;
+	padding: 5px;
+	cursor: pointer;
+}
+
+#captions .caption {
+	font-size: 14px;
+	border-radius: 4px 4px 4px 4px;
+	background-color: #121211;
+	margin-bottom: 5px;
+	padding: 8px;
+	line-height: 16px;
+}
+
+#captions .caption .author {
+    font-size: 11px;
+	color: #AAAAAA;
+	margin-bottom: 2px;
+}
+
+.post {
+	background-color: #181817;
+	border: 3px solid #444442;
+	float: left;
+	margin: 3px;
+	line-height: 0px;
+	width: 130px;
+	height: 130px;
+}
+
+.post img {
+	width: 130px;
+	height: 130px;
+}
+
+.headerbox {
+	background-color: #181817;
+	border-radius: 4px 4px 4px 4px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.stats {
+	background-color: #181817;
+	border-radius: 4px 4px 4px 4px;
+	padding: 10px;
+}
+
+.textbox {
+	margin-top: 5px;
+	background-color: #181817;
+	border-radius: 4px 4px 4px 4px;
+	padding: 10px;
+	text-align: center;
+}
+
+.button-medium {
+	border: 2px solid #444442;
+	border-radius: 4px 4px 4px 4px;
+	width: 80px;
+	height: 30px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 12px;
+	padding: 4px;
+	cursor: pointer;
+}
+
+#post-caption .counter {
+	margin-top: 15px;
+	display: none;
+	color: #888888;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.error {
+	border-radius: 4px 4px 4px 4px;
+	background-color: #121211;
+	margin-bottom: 5px;
+	padding: 8px;
+	line-height: 16px;
+	color: #EE4444;
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
